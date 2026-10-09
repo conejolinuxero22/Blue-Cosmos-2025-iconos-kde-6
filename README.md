@@ -1,4 +1,8 @@
 # Blue-Cosmos-2025-iconos-kde-6
+https://store.kde.org/p/2377927
+
+https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1791581351/Blue-Cosmos-v1-2025-12-de-septiembre-iconos.tar.gz?response-content-disposition=attachment%3B%2520Blue-Cosmos-v1-2025-12-de-septiembre-iconos.tar.gz&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20261009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T214558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=1c51e79e2e5fe6523a8c560ac571f0bfeed8f31549ebe085961e3f4ef488d886
+
 Blue-Cosmos-2025-iconos-kde-6 NO MONOCROMATICO
 
 Blue-Cosmos-v1
